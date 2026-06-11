@@ -1,0 +1,368 @@
+{
+  "searchYourPlants": "Поиск по растениям",
+  "filterActivities": "Фильтр активностей",
+  "filter": "Фильтр",
+  "eventTypes": "Типы событий",
+  "nEventTypes": "{count} {count, plural, =1{тип события} few{типа событий} other{типов событий}}",
+  "@nEventTypes": {
+    "description": "A plural event type message",
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "whichEventsYouWantToAdd": "Какие события вы хотите добавить?",
+  "plants": "Растения",
+  "nPlants": "{count} {count, plural, =1{растение} few{растения} other{растений}}",
+  "@nPlants": {
+    "description": "A plural plant message",
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "whichPlantsYouWantToAdd": "Какие растения вы хотите добавить?",
+  "error": "Ошибка",
+  "tryAgain": "Повторить",
+  "confirmDelete": "Подтвердить удаление",
+  "areYouSureYouWantToDeleteThisEvent": "Вы уверены, что хотите удалить это событие?",
+  "cancel": "Отмена",
+  "delete": "Удалить",
+  "eventDeleted": "Событие удалено",
+  "edit": "Редактировать",
+  "eventCreated": "Событие создано",
+  "markDone": "Отметить выполненным",
+  "reminder": "Напоминание",
+  "back": "Назад",
+  "next": "Далее",
+  "confirm": "Подтвердить",
+  "createEvent": "Создать событие",
+  "create": "Создать",
+  "eventsCreated": "События созданы",
+  "save": "Сохранить",
+  "editTheEvent": "Редактировать событие",
+  "eventUpdated": "Событие обновлено",
+  "selectTheEventType": "Выберите тип события",
+  "selectThePlant": "Выберите растение",
+  "nextActions": "Следующие действия",
+  "home": "Главная",
+  "calendar": "Календарь",
+  "search": "Поиск",
+  "more": "Ещё",
+  "addPlant": "Добавить растение",
+  "add": "Добавить",
+  "plantAdded": "Растение добавлено",
+  "location": "Местоположение",
+  "name": "Название",
+  "price": "Цена",
+  "editPlant": "Редактировать растение",
+  "plantUpdated": "Растение обновлено",
+  "deleteImage": "Удалить изображение",
+  "areYouSureYouWantToDeleteThisImage": "Вы уверены, что хотите удалить это изображение?",
+  "info": "Сведения",
+  "imageInfo": "Информация об изображении",
+  "ok": "ОК",
+  "download": "Скачать",
+  "unsetAsAvatar": "Убрать аватар",
+  "setAsAvatar": "Задать как аватар",
+  "information": "Информация",
+  "care": "Уход",
+  "reminders": "Напоминания",
+  "events": "События",
+  "gallery": "Галерея",
+  "duplicate": "Дублировать",
+  "plantDuplicated": "Растение дублировано",
+  "plantDeleted": "Растение удалено",
+  "searchGreenFriends": "Поиск зелёных друзей",
+  "note": "Заметка",
+  "update": "Обновить",
+  "custom": "пользовательский",
+  "floraCodex": "Flora Codex",
+  "seller": "Продавец",
+  "remove": "Убрать",
+  "createEventType": "Создать тип события",
+  "selectAColor": "Выберите цвет",
+  "select": "Выбрать",
+  "whichColorYouWantToUse": "Какой цвет вы хотите использовать?",
+  "description": "Описание",
+  "whichIconYouWantToUse": "Какой значок вы хотите использовать?",
+  "filterIcons": "Фильтр значков",
+  "insertAName": "Введите название",
+  "editEventType": "Редактировать тип события",
+  "eventTypeUpdated": "Тип события обновлён",
+  "areYouSureYouWantToDeleteTheEventTypeAndAllLinkedEvents": "Вы уверены, что хотите удалить тип события и все связанные события?",
+  "eventTypeDeleted": "Тип события удалён",
+  "createReminder": "Создать напоминание",
+  "reminderCreated": "Напоминание создано",
+  "whichEventTypeYouWantToSet": "Какой тип события вы хотите задать?",
+  "quantity": "Количество",
+  "whichPlantsYouWantToSet": "Какое растение вы хотите задать?",
+  "editReminder": "Редактировать напоминание",
+  "reminderUpdated": "Напоминание обновлено",
+  "whichEventsYouWantToSet": "Какие события вы хотите задать?",
+  "reminderDeleted": "Напоминание удалено",
+  "areYouSureYouWantToDeleteTheReminder": "Вы уверены, что хотите удалить это напоминание?",
+  "dataSources": "Источники данных",
+  "configureTheFloraCodexSettings": "Настройка параметров Flora Codex",
+  "insertTheFloraCodexApiKey": "Введите API-ключ Flora Codex",
+  "enterApiKey": "Введите API-ключ",
+  "enableDataSource": "Включить источник данных",
+  "apiKey": "API-ключ",
+  "notProvided": "не указан",
+  "appInfo": "О приложении",
+  "appVersion": "Версия приложения",
+  "sourceCode": "Исходный код",
+  "support": "Поддержка ♥️",
+  "notifications": "Уведомления",
+  "enableNotifications": "Включить уведомления",
+  "selectWeekdaysAndTimes": "Выберите дни недели и время",
+  "pickTime": "Выбрать время",
+  "done": "Готово",
+  "aboutPlantIt": "О Plant-it",
+  "manageTheEventTypes": "Управление типами событий",
+  "manageTheReminders": "Управление напоминаниями",
+  "manageTheDataSources": "Управление источниками данных",
+  "configureWhenAndIfNotificationsAreReceived": "Настройка расписания и условий получения уведомлений",
+  "detailsAboutTheApp": "Подробная информация о приложении",
+  "yourSupportHelpsUsGrow": "Ваша поддержка помогает нам развиваться!",
+  "supportTheProject": "Поддержать проект",
+  "whySupportPlantIt": "Почему стоит поддержать Plant-it?",
+  "openSourceProjectThatBenefitsEveryone": "Проект с открытым исходным кодом, который полезен каждому.",
+  "yourDonationsHelpUsImproveTheApp": "Ваши пожертвования помогают нам улучшать приложение.",
+  "supportNewFeaturesAndUpdates": "Поддержите разработку новых функций и обновлений.",
+  "donateNow": "Пожертвовать",
+  "createSpecies": "Создать вид",
+  "speciesCreated": "Вид создан",
+  "avatar": "Аватар",
+  "noAvatar": "Нет аватара",
+  "uploadPhoto": "Загрузить фото",
+  "choosePhoto": "Выбрать фото",
+  "noPhoto": "Нет фото",
+  "useWebImage": "Использовать изображение из интернета",
+  "url": "URL",
+  "light": "Освещение",
+  "humidity": "Влажность",
+  "temperature": "Температура",
+  "ph": "pH",
+  "genus": "Род",
+  "family": "Семейство",
+  "synonym": "Синоним",
+  "addSynonym": "Добавить синоним",
+  "classification": "Классификация",
+  "species": "Вид",
+  "synonyms": "Синонимы",
+  "editSpecies": "Редактировать вид",
+  "speciesUpdated": "Вид обновлён",
+  "addToCollection": "Добавить в коллекцию",
+  "showNextNotificationsDateTime": "Показать дату и время следующих уведомлений",
+  "date": "Дата",
+  "plant": "Растение",
+  "low": "Низкий",
+  "medium": "Средний",
+  "high": "Высокий",
+  "sunlight": "Солнечный свет",
+  "min": "мин",
+  "max": "макс",
+  "errorWithMessage": "Ошибка: {message}",
+  "@errorWithMessage": {
+    "description": "An error with a message",
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "color": "Цвет",
+  "red": "красный",
+  "green": "зелёный",
+  "blue": "синий",
+  "white": "белый",
+  "teal": "бирюзовый",
+  "yellow": "жёлтый",
+  "icon": "Значок",
+  "every": "Каждые",
+  "repeatAfter": "Повторить через",
+  "frequencyEvery": "Каждые{quantity, plural, =1{} other{ {quantity}}} {unit, select, days{день} months{месяц} weeks{неделю} other{год}}{quantity, plural, =1{} few{а} other{}}",
+  "@frequencyEvery": {
+    "description": "A representation of frequency",
+    "placeholders": {
+      "quantity": {
+        "type": "num",
+        "format": "compact"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "afterMessage": "Через {quantity} {unit, select, days{день} months{месяц} weeks{неделю} other{год}}{quantity, plural, =1{} few{а} other{}}",
+  "@afterMessage": {
+    "description": "A representation of after",
+    "placeholders": {
+      "quantity": {
+        "type": "num",
+        "format": "compact"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "frequency": "{quantity} {unit, select, days{день} months{месяц} weeks{неделю} other{год}}{quantity, plural, =1{} few{а} other{}}",
+  "@frequency": {
+    "description": "A representation of time",
+    "placeholders": {
+      "quantity": {
+        "type": "num",
+        "format": "compact"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "day": "день",
+  "week": "неделя",
+  "month": "месяц",
+  "year": "год",
+  "reminderDescription": "Каждые{quantity, plural, =1{} other{ {quantity}}} {unit, select, days{день} months{месяц} weeks{неделю} other{год}}{quantity, plural, =1{} few{а} other{}} с {startDate}{endDate, select, null {} other { по {endDate}}}",
+  "@reminderDescription": {
+    "description": "A description of reminder",
+    "placeholders": {
+      "quantity": {
+        "type": "num",
+        "format": "compact"
+      },
+      "unit": {
+        "type": "String"
+      },
+      "startDate": {
+        "type": "DateTime",
+        "format": "yMd"
+      },
+      "endDate": {
+        "type": "String"
+      }
+    }
+  },
+  "start": "Начало",
+  "plantClassificationInfo": "{name} — растение вида |{species}|{genus, select, null {} other {, рода |{genus}|}}{family, select, null {} other {, семейства |{family}|}}.",
+  "@plantClassificationInfo": {
+    "description": "A description of a plant classification",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "species": {
+        "type": "String"
+      },
+      "genus": {
+        "type": "String"
+      },
+      "family": {
+        "type": "String"
+      }
+    }
+  },
+  "speciesSynonyms": "{synonyms, select, null {У {species} нет синонимов} other {{species} также известен как: {synonyms}}}.",
+  "@speciesSynonyms": {
+    "description": "A list of species synonyms",
+    "placeholders": {
+      "synonyms": {
+        "type": "String"
+      },
+      "species": {
+        "type": "String"
+      }
+    }
+  },
+  "speciesClassificationInfo": "{species} — вид рода {genus, select, null {неизвестно} other {|{genus}|}} и семейства {family, select, null {неизвестно} other {|{family}|}}.",
+  "@speciesClassificationInfo": {
+    "description": "A description of a plant classification",
+    "placeholders": {
+      "species": {
+        "type": "String"
+      },
+      "genus": {
+        "type": "String"
+      },
+      "family": {
+        "type": "String"
+      }
+    }
+  },
+  "eventType": "Тип события",
+  "end": "Конец",
+  "databaseAndCache": "База данных и кэш",
+  "manageDatabaseAndCache": "Управление базой данных и настройками кэша",
+  "clearCache": "Очистить кэш",
+  "cacheCleaned": "Кэш очищен",
+  "noSynonyms": "Известные синонимы отсутствуют",
+  "areYouSureYouWantToDeleteThisPlant": "Вы уверены, что хотите удалить это растение?",
+  "areYouSureYouWantToDeleteThisSpecies": "Вы уверены, что хотите удалить этот вид и все связанные с ним растения?",
+  "speciesDeleted": "Вид удалён",
+  "noPlantsFound": "Растения не найдены",
+  "yourPlantWillAppearHere": "Ваши растения появятся здесь после добавления в коллекцию",
+  "howToAddPlants": "Как добавлять растения",
+  "addPlantInstruction": "Приложение работает с растениями различных видов.\n\nЧтобы добавить новое растение, сначала найдите его вид (или создайте новый), а затем привяжите растение к нему.\n\nДля начала выполните поиск вида.",
+  "searchASpecies": "Найти вид",
+  "noSpeciesFound": "Виды не найдены",
+  "searchAndAddSpeciesInstructions": "Вы можете добавить новый вид или подключить приложение к сервису для доступа к дополнительным видам.",
+  "connectToAService": "Подключиться к сервису",
+  "noInfoAvailable": "Информация недоступна",
+  "noReminder": "Напоминания не найдены.\n\nСоздайте напоминание для своих растений, чтобы получать уведомления и видеть предстоящие действия.",
+  "today": "Сегодня",
+  "tomorrow": "Завтра",
+  "yesterday": "Вчера",
+  "inTime": "через {quantity} {unit, select, days{день} weeks{неделю} months{месяц} other{год}}{quantity, plural, =1{} few{а} other{}}",
+  "@inTime": {
+    "description": "In quantity time",
+    "placeholders": {
+      "quantity": {
+        "type": "num",
+        "format": "compact"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "agoTime": "{quantity} {unit, select, days{день} weeks{неделю} months{месяц} other{год}}{quantity, plural, =1{} few{а} other{}} назад",
+  "@agoTime": {
+    "description": "Ago quantity time",
+    "placeholders": {
+      "quantity": {
+        "type": "num",
+        "format": "compact"
+      },
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "additionalInfo": "Дополнительная информация",
+  "floraCodexDescription": "FloraCodex — сервис баз данных, предоставляющий доступ к обширному каталогу видов растений, включая их научные названия, народные наименования и другие сведения. Для использования сервиса необходимо получить API-ключ.",
+  "floraCodexGetApiKey": "Чтобы получить API-ключ, посетите сайт FloraCodex или нажмите здесь",
+  "reloadNotificationMessages": "Перезагрузить сообщения уведомлений",
+  "notificationMessagesReloaded": "Сообщения уведомлений перезагружены, закройте и откройте приложение",
+  "notificationTitle1": "Упс, вы снова забыли!",
+  "notificationTitle2": "Растение зовёт на помощь!",
+  "notificationTitle3": "Пора поговорить с растением!",
+  "notificationTitle4": "Не сегодня, растение подождёт!",
+  "notificationTitle5": "Растению нужна подпитка!",
+  "notificationTitle6": "Всё в ваших руках!",
+  "notificationTitle7": "Зелёный отряд спешит на помощь!",
+  "notificationTitle8": "Вы оставили растение в одиночестве",
+  "notificationBody1": "|emoji| |plantName| ожидает |eventType|. Не заставляйте его ждать!",
+  "notificationBody2": "|emoji| |plantName| просит о |eventType|. Пришло время спасти положение!",
+  "notificationBody3": "|emoji| |plantName| нуждается в |eventType|. Оно ждёт вас!",
+  "notificationBody4": "|emoji| |plantName| устало ждать |eventType|. Уделите ему немного заботы!",
+  "notificationBody5": "|emoji| |plantName| давно нуждается в |eventType|. Взбодрите его!",
+  "notificationBody6": "|emoji| |plantName| готово к |eventType|. Не подведите его!",
+  "notificationBody7": "|emoji| |plantName| нуждается в |eventType|. Вы — его герой!",
+  "notificationBody8": "|emoji| |plantName| скучает по |eventType|. Порадуйте его снова!"
+}
